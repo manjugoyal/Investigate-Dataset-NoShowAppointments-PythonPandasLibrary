@@ -1,0 +1,2 @@
+*.html linguist-vendored
+# file to ensure github does not use html as language of the repository
